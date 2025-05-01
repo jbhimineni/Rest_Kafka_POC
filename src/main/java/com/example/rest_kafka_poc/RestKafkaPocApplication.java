@@ -1,7 +1,8 @@
-package com.example.Rest_Kafka_POC;
+package com.example.rest_kafka_poc;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+
 
 @SpringBootApplication
 public class RestKafkaPocApplication {

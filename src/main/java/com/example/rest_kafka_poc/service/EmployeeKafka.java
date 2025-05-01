@@ -1,0 +1,1 @@
+package com.example.rest_kafka_poc.service;public interface EmployeeKafka {     Boolean producer(String message);     void read(String message);}
