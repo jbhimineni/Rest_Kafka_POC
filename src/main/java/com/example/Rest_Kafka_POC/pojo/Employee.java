@@ -1,1 +1,0 @@
-package com.example.Rest_Kafka_POC.pojo;import lombok.AllArgsConstructor;import lombok.Data;import lombok.NoArgsConstructor;@Data@AllArgsConstructor@NoArgsConstructorpublic class Employee {    private int id;    private String firstName;    private String lastName;    private String location;    private int age;    private float salary;}

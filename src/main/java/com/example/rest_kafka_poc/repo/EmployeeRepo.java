@@ -1,0 +1,1 @@
+package com.example.rest_kafka_poc.repo;import com.example.rest_kafka_poc.entity.EmployeeEntity;import org.springframework.data.jpa.repository.JpaRepository;import org.springframework.stereotype.Repository;@Repositorypublic interface EmployeeRepo extends JpaRepository<EmployeeEntity, Integer> {}

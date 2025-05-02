@@ -1,1 +1,0 @@
-package com.example.Rest_Kafka_POC.service;import com.example.Rest_Kafka_POC.pojo.Employee;public interface EmployeeService {    public String createEmployee();    public Employee getEmployee(int id);    public String publishEmployee(Employee employee);}
